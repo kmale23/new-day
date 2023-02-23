@@ -1,0 +1,11 @@
+# local env files 
+.env*
+
+# flies
+*.css 
+*.js
+
+
+#cool
+.vscode
+/folder_name
