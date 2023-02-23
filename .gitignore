@@ -1,9 +1,6 @@
 # local env files 
 .env*
 
-# flies
-*.css 
-*.js
 
 
 #cool
